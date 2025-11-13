@@ -1,0 +1,31 @@
+privacy-policy.html
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy – Erdem Aksu</title>
+  <style>
+    body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; }
+    h1 { color: #333; }
+    a { color: #007bff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Last Updated: November 2025</p>
+  <p>
+    Data Controller: Erdem Aksu – Freelance Recruiter<br>
+    Address: Gretherstrasse 17, 79539 Lörrach, Germany<br>
+    Email: <a href="mailto:hello@axujobs.com">hello@axujobs.com</a><br>
+  </p>
+  <p>
+    I collect and process personal data for recruitment and coaching purposes, in accordance with GDPR Art. 6(1)(a/b/f). 
+    Your rights: Access, Rectification, Erasure, Restriction, Data Portability, Object, Withdraw consent. 
+    Retention: 24 months for candidates, 10 years for accounting. 
+    No data sold. International transfers via SCCs.
+  </p>
+</body>
+</html>

@@ -1,0 +1,30 @@
+impressum.html
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Impressum – Erdem Aksu</title>
+  <style>
+    body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; }
+    h1 { color: #333; }
+    a { color: #007bff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Impressum</h1>
+  <p>
+    Erdem Aksu – Freelance Recruiter<br>
+    Gretherstrasse 17<br>
+    79539 Lörrach, Germany<br>
+    Email: <a href="mailto:hello@axujobs.com">hello@axujobs.com</a><br>
+    Steuernummer: 11051/15204<br>
+    VAT ID: Not applicable under §19 UStG (small-business exemption)<br>
+    Freiberuflicher Personalvermittler since 2020<br>
+    §55 Abs. 2 RStV: Erdem Aksu<br>
+    ODR: <a href="https://ec.europa.eu/consumers/odr" target="_blank">https://ec.europa.eu/consumers/odr</a>
+  </p>
+</body>
+</html>
