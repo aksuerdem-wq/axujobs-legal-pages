@@ -48,6 +48,8 @@
     <p>Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: 
     <a href="https://ec.europa.eu/consumers/odr/" target="_blank">https://ec.europa.eu/consumers/odr/</a></p>
     <p>Wir sind weder verpflichtet noch bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
+
+    <p><small><strong>Anbieterkennzeichnung:</strong> Gemäß § 5 DDG</small></p>
   </div>
 
   <!-- ENGLISH -->
@@ -78,6 +80,8 @@
     <p>The European Commission provides a platform for online dispute resolution (ODR): 
     <a href="https://ec.europa.eu/consumers/odr/" target="_blank">https://ec.europa.eu/consumers/odr/</a></p>
     <p>We are neither obliged nor willing to participate in dispute resolution proceedings before a consumer arbitration board.</p>
+
+    <p><small><strong>Provider Identification:</strong> Per § 5 DDG</small></p>
   </div>
 
   <script>
