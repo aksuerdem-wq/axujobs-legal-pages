@@ -30,7 +30,6 @@
     <p>Erdem Aksu<br>Gretherstrasse 17, 79539 Lörrach, Deutschland<br>
     Telefon: +49 15158707520<br>E-Mail: <a href="mailto:hello@axujobs.com">hello@axujobs.com</a><br>
     Steuernummer: 11051/15204</p>
-
     <p>Optionaler Kontakt für Recruiter: Sie können mich auch über das integrierte Slack-Messaging im AxuNetwork-Portal kontaktieren.</p>
 
     <h2>2. Verarbeitung personenbezogener Daten</h2>
@@ -56,7 +55,7 @@
     <p>Wir verwenden Cookies, um Ihre Erfahrung zu verbessern. Nicht-essenzielle Cookies werden nur nach Ihrer ausdrücklichen Zustimmung gesetzt.</p>
     <ul>
       <li><strong>Essenzielle Cookies</strong>: Immer aktiv. Für Anmeldung, Sitzungsverwaltung, Sicherheit.</li>
-      <li><strong>Funktionale Cookies</strong>: Merken Ihre Präferenzen (z.B. gespeicherte Checklisten, Anzeigeeinstellungen).</li>
+      <li><strong>Functional Cookies</strong>: Merken Ihre Präferenzen (z.B. gespeicherte Checklisten, Anzeigeeinstellungen).</li>
       <li><strong>Analytics Cookies</strong>: Helfen uns, die Nutzung der Plattform zu verstehen und zu verbessern. Daten sind anonymisiert.</li>
     </ul>
     <p>Sie können Ihre Cookie-Einstellungen jederzeit über das Cookie-Banner ändern.</p>
@@ -84,7 +83,6 @@
     <p>Erdem Aksu<br>Gretherstrasse 17, 79539 Lörrach, Germany<br>
     Phone: +49 15158707520<br>Email: <a href="mailto:hello@axujobs.com">hello@axujobs.com</a><br>
     Tax ID: 11051/15204</p>
-
     <p>Optional contact for recruiters: You can also reach me via the integrated Slack messaging in the AxuNetwork portal.</p>
 
     <h2>2. Processing of Personal Data</h2>
