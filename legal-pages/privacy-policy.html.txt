@@ -24,12 +24,14 @@
   <!-- GERMAN -->
   <div id="de" class="de active">
     <h1>Datenschutzerklärung</h1>
-    <p><strong>Stand: 17. November 2025</strong></p>
+    <p><strong>Stand: 27. November 2025</strong></p>
 
     <h2>1. Verantwortlicher</h2>
     <p>Erdem Aksu<br>Gretherstrasse 17, 79539 Lörrach, Deutschland<br>
     Telefon: +49 15158707520<br>E-Mail: <a href="mailto:hello@axujobs.com">hello@axujobs.com</a><br>
     Steuernummer: 11051/15204</p>
+
+    <p>Optionaler Kontakt für Recruiter: Sie können mich auch über das integrierte Slack-Messaging im AxuNetwork-Portal kontaktieren.</p>
 
     <h2>2. Verarbeitung personenbezogener Daten</h2>
     <p>Wir verarbeiten: Name, E-Mail, Telefon, Lebenslauf, LinkedIn-Profil, Gehaltsvorstellung, Standort – ausschließlich für Personalvermittlung und Karrierecoaching.</p>
@@ -47,11 +49,17 @@
     <ul>
       <li>Auskunft, Berichtigung, Löschung</li>
       <li>Einschränkung der Verarbeitung, Datenübertragbarkeit</li>
-      <li>Widerspruch und <strong>Widerruf der Einwilligung jederzeit</strong> per E-Mail an hello@axujobs.com oder über den Cookie-Banner</li>
+      <li>Widerspruch und <strong>Widerruf der Einwilligung jederzeit</strong> per E-Mail an hello@axujobs.com, über Slack oder über den Cookie-Banner</li>
     </ul>
 
     <h2>6. Cookies & Tracking (§ 25 TDDDG)</h2>
-    <p>Wir setzen Google Analytics, LinkedIn Insight Tag und technisch notwendige Session-Cookies. Sie können Ihre Einwilligung jederzeit im Cookie-Banner anpassen.</p>
+    <p>Wir verwenden Cookies, um Ihre Erfahrung zu verbessern. Nicht-essenzielle Cookies werden nur nach Ihrer ausdrücklichen Zustimmung gesetzt.</p>
+    <ul>
+      <li><strong>Essenzielle Cookies</strong>: Immer aktiv. Für Anmeldung, Sitzungsverwaltung, Sicherheit.</li>
+      <li><strong>Funktionale Cookies</strong>: Merken Ihre Präferenzen (z.B. gespeicherte Checklisten, Anzeigeeinstellungen).</li>
+      <li><strong>Analytics Cookies</strong>: Helfen uns, die Nutzung der Plattform zu verstehen und zu verbessern. Daten sind anonymisiert.</li>
+    </ul>
+    <p>Sie können Ihre Cookie-Einstellungen jederzeit über das Cookie-Banner ändern.</p>
 
     <h2>7. Internationale Datenübermittlung</h2>
     <p>Bei Drittstaaten nur mit Standardvertragsklauseln (SCC) oder Angemessenheitsbeschluss der EU-Kommission.</p>
@@ -70,12 +78,14 @@
   <!-- ENGLISH -->
   <div id="en" class="en">
     <h1>Privacy Policy</h1>
-    <p><strong>Last updated: November 17, 2025</strong></p>
+    <p><strong>Last updated: November 27, 2025</strong></p>
 
     <h2>1. Controller</h2>
     <p>Erdem Aksu<br>Gretherstrasse 17, 79539 Lörrach, Germany<br>
     Phone: +49 15158707520<br>Email: <a href="mailto:hello@axujobs.com">hello@axujobs.com</a><br>
     Tax ID: 11051/15204</p>
+
+    <p>Optional contact for recruiters: You can also reach me via the integrated Slack messaging in the AxuNetwork portal.</p>
 
     <h2>2. Processing of Personal Data</h2>
     <p>We process: name, email, phone, CV, LinkedIn, salary expectation, location – only for recruitment and career coaching.</p>
@@ -92,11 +102,17 @@
     <ul>
       <li>Access, rectification, erasure</li>
       <li>Restriction, portability</li>
-      <li>Objection and <strong>withdrawal of consent at any time</strong> via email to hello@axujobs.com or the cookie banner</li>
+      <li>Objection and <strong>withdrawal of consent at any time</strong> via email to hello@axujobs.com, Slack, or the cookie banner</li>
     </ul>
 
     <h2>6. Cookies & Tracking (§ 25 TDDDG)</h2>
-    <p>We use Google Analytics, LinkedIn Insight Tag and technically necessary session cookies. Manage consent anytime in the cookie banner.</p>
+    <p>We use cookies to enhance your experience. Non-essential cookies are only set after your explicit consent.</p>
+    <ul>
+      <li><strong>Essential Cookies</strong>: Always active. Required for authentication, session management, and security.</li>
+      <li><strong>Functional Cookies</strong>: Remember your preferences (e.g., saved checklists, display settings).</li>
+      <li><strong>Analytics Cookies</strong>: Help us understand how you use the platform. Data is anonymized.</li>
+    </ul>
+    <p>You can change your cookie preferences at any time via the cookie banner.</p>
 
     <h2>7. International Transfers</h2>
     <p>To third countries only with EU Standard Contractual Clauses (SCC) or adequacy decision.</p>
