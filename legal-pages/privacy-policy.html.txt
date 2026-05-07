@@ -52,4 +52,105 @@
     </table>
     <p>Nach Ablauf der jeweiligen Frist werden die Daten gelöscht oder anonymisiert.</p>
     <p><strong>Ausnahme bei Löschanfragen – Vermittlungsnachweis (Art. 17 Abs. 3 lit. e DSGVO):</strong><br>
-    Das Recht auf Löschung gilt nicht uneingeschränkt. Sofern ein Bewerber einem Kunden formal vorgestellt wurde, bewahren wir einen minimalen Vermittlungsnachweis auf, der ausschließlich folgende Angaben enthält: Name des Bewerbers, Datum der Vorstellung, Stellenbezeichnung und Kundenname. Dieser Nachweis wird für einen Zeitraum von 12 Monaten ab dem Datum der ersten Vorstellung aufbewahrt, ausschließlich zum Zweck der Geltendmachung, Ausübung oder Vertei
+    Das Recht auf Löschung gilt nicht uneingeschränkt. Sofern ein Bewerber einem Kunden formal vorgestellt wurde, bewahren wir einen minimalen Vermittlungsnachweis auf, der ausschließlich folgende Angaben enthält: Name des Bewerbers, Datum der Vorstellung, Stellenbezeichnung und Kundenname. Dieser Nachweis wird für einen Zeitraum von 12 Monaten ab dem Datum der ersten Vorstellung aufbewahrt, ausschließlich zum Zweck der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen aus unserer Nicht-Umgehungsklausel gemäß Art. 17 Abs. 3 lit. e DSGVO. Alle weiteren personenbezogenen Daten (Lebenslauf, Kontaktdaten, Gehaltsvorstellung etc.) werden entsprechend Ihrer Löschanfrage vollständig gelöscht.</p>
+
+    <h2>5. Ihre Rechte</h2>
+    <ul>
+      <li>Auskunft, Berichtigung, Löschung</li>
+      <li>Einschränkung der Verarbeitung, Datenübertragbarkeit</li>
+      <li>Widerspruch und <strong>Widerruf der Einwilligung jederzeit</strong> per E-Mail an hello@axujobs.com, über Slack oder über den Cookie-Banner</li>
+    </ul>
+    <p><strong>Hinweis zum Löschrecht:</strong> Das Recht auf Löschung kann in dem unter Abschnitt 4 beschriebenen Umfang eingeschränkt sein, sofern die Speicherung zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist (Art. 17 Abs. 3 lit. e DSGVO). In diesem Fall werden Sie über die beibehaltenen Daten und den Zweck der Aufbewahrung informiert.</p>
+
+    <h2>6. Cookies & Tracking (§ 25 TDDDG)</h2>
+    <p>Wir verwenden Cookies, um Ihre Erfahrung zu verbessern. Nicht-essenzielle Cookies werden nur nach Ihrer ausdrücklichen Zustimmung gesetzt.</p>
+    <ul>
+      <li><strong>Essenzielle Cookies</strong>: Immer aktiv. Für Anmeldung, Sitzungsverwaltung, Sicherheit.</li>
+      <li><strong>Functional Cookies</strong>: Merken Ihre Präferenzen (z.B. gespeicherte Checklisten, Anzeigeeinstellungen).</li>
+      <li><strong>Analytics Cookies</strong>: Helfen uns, die Nutzung der Plattform zu verstehen und zu verbessern. Daten sind anonymisiert.</li>
+    </ul>
+    <p>Sie können Ihre Cookie-Einstellungen jederzeit über das Cookie-Banner ändern.</p>
+
+    <h2>7. Internationale Datenübermittlung</h2>
+    <p>Bei Drittstaaten nur mit Standardvertragsklauseln (SCC) oder Angemessenheitsbeschluss der EU-Kommission.</p>
+
+    <h2>8. Datensicherheit</h2>
+    <p>SSL-Verschlüsselung, regelmäßige Updates, technische und organisatorische Maßnahmen (TOM).</p>
+
+    <h2>9. Beschwerderecht</h2>
+    <p>Landesbeauftragter für den Datenschutz Baden-Württemberg:<br>
+    <a href="https://www.baden-wuerttemberg.datenschutz.de" target="_blank">www.baden-wuerttemberg.datenschutz.de</a></p>
+
+    <hr>
+    <p><small>Gehostet auf GitHub Pages gemäß § 5 DDG und Art. 12 DSGVO.</small></p>
+  </div>
+
+  <!-- ENGLISH -->
+  <div id="en" class="en">
+    <h1>Privacy Policy</h1>
+    <p><strong>Last updated: May 08, 2026</strong></p>
+
+    <h2>1. Controller</h2>
+    <p>Erdem Aksu<br>Gretherstrasse 17, 79539 Lörrach, Germany<br>
+    Phone: +49 15158707520<br>Email: <a href="mailto:hello@axujobs.com">hello@axujobs.com</a><br>
+    Tax ID: 11051/15204</p>
+    <p>Optional contact for recruiters: You can also reach me via the integrated Slack messaging in the AxuNetwork portal.</p>
+
+    <h2>2. Processing of Personal Data</h2>
+    <p>We process: name, email, phone, CV, LinkedIn, salary expectation, location – only for recruitment and career coaching.</p>
+    <p><strong>Legal bases:</strong> Consent (Art. 6(1)(a) GDPR), contract (b), legitimate interest (f).</p>
+
+    <h2>3. Data Sharing</h2>
+    <p>Only with your explicit consent to employers/partners. No data selling.</p>
+
+    <h2>4. Retention & Deletion</h2>
+    <table>
+      <tr><th>Data Category</th><th>Retention Period</th></tr>
+      <tr><td>Candidate profile (CV, contact details, salary expectation)</td><td>Max. 24 months from last activity, or upon deletion request</td></tr>
+      <tr><td>Active placement data</td><td>Duration of active engagement + 12 months</td></tr>
+      <tr><td>Non-circumvention record (see below)</td><td>12 months from date of presentation to a client</td></tr>
+      <tr><td>Accounting data</td><td>10 years (statutory obligation)</td></tr>
+    </table>
+    <p>After the applicable period, data will be deleted or anonymized.</p>
+    <p><strong>Exception to erasure requests – Non-circumvention record (Art. 17(3)(e) GDPR):</strong><br>
+    The right to erasure is not absolute. Where a candidate has been formally presented to a client, we retain a minimal record consisting solely of: candidate name, date of presentation, role presented for, and client name. This record is retained for 12 months from the date of first presentation, exclusively for the purpose of establishing, exercising, or defending legal claims arising from our non-circumvention obligations, pursuant to Art. 17(3)(e) GDPR. All other personal data (CV, contact details, salary expectations, etc.) is fully deleted in accordance with your erasure request.</p>
+
+    <h2>5. Your Rights</h2>
+    <ul>
+      <li>Access, rectification, erasure</li>
+      <li>Restriction, portability</li>
+      <li>Objection and <strong>withdrawal of consent at any time</strong> via email to hello@axujobs.com, Slack, or the cookie banner</li>
+    </ul>
+    <p><strong>Note on the right to erasure:</strong> The right to erasure may be limited to the extent described in Section 4 where retention is necessary for the establishment, exercise, or defence of legal claims (Art. 17(3)(e) GDPR). In such cases, you will be informed of the data retained and the purpose of retention.</p>
+
+    <h2>6. Cookies & Tracking (§ 25 TDDDG)</h2>
+    <p>We use cookies to enhance your experience. Non-essential cookies are only set after your explicit consent.</p>
+    <ul>
+      <li><strong>Essential Cookies</strong>: Always active. Required for authentication, session management, and security.</li>
+      <li><strong>Functional Cookies</strong>: Remember your preferences (e.g., saved checklists, display settings).</li>
+      <li><strong>Analytics Cookies</strong>: Help us understand how you use the platform. Data is anonymized.</li>
+    </ul>
+    <p>You can change your cookie preferences at any time via the cookie banner.</p>
+
+    <h2>7. International Transfers</h2>
+    <p>To third countries only with EU Standard Contractual Clauses (SCC) or adequacy decision.</p>
+
+    <h2>8. Data Security</h2>
+    <p>SSL encryption, regular updates, technical and organizational measures (TOM).</p>
+
+    <h2>9. Right to Complain</h2>
+    <p>State Commissioner for Data Protection Baden-Württemberg:<br>
+    <a href="https://www.baden-wuerttemberg.datenschutz.de" target="_blank">baden-wuerttemberg.datenschutz.de</a></p>
+
+    <hr>
+    <p><small>Hosted on GitHub Pages according to § 5 DDG and Art. 12 GDPR.</small></p>
+  </div>
+
+  <script>
+    function show(lang) {
+      document.querySelectorAll('.en, .de').forEach(el => el.classList.remove('active'));
+      document.getElementById(lang).classList.add('active');
+    }
+  </script>
+</body>
+</html>
