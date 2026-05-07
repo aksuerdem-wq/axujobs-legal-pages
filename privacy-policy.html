@@ -13,6 +13,9 @@
     .en.active, .de.active { display: block; }
     a { color: #0066cc; }
     ul { padding-left: 20px; }
+    table { border-collapse: collapse; width: 100%; margin: 12px 0; }
+    th, td { border: 1px solid #ccc; padding: 8px 12px; text-align: left; }
+    th { background: #f4f4f4; }
   </style>
 </head>
 <body>
@@ -24,7 +27,7 @@
   <!-- GERMAN -->
   <div id="de" class="de active">
     <h1>Datenschutzerklärung</h1>
-    <p><strong>Stand: 27. November 2025</strong></p>
+    <p><strong>Stand: 08. Mai 2026</strong></p>
 
     <h2>1. Verantwortlicher</h2>
     <p>Erdem Aksu<br>Gretherstrasse 17, 79539 Lörrach, Deutschland<br>
@@ -40,9 +43,16 @@
     <p>Nur mit Ihrer ausdrücklichen Einwilligung an Arbeitgeber/Partner. Kein Verkauf von Daten.</p>
 
     <h2>4. Speicherdauer & Löschung</h2>
-    <p>Bewerberdaten: max. 24 Monate nach letzter Aktivität<br>
-    Rechnungsdaten: 10 Jahre<br>
-    → Danach werden die Daten gelöscht oder anonymisiert.</p>
+    <table>
+      <tr><th>Datenkategorie</th><th>Speicherdauer</th></tr>
+      <tr><td>Bewerberprofil (Lebenslauf, Kontaktdaten, Gehaltsvorstellung)</td><td>Max. 24 Monate nach letzter Aktivität oder auf Löschanfrage</td></tr>
+      <tr><td>Aktive Vermittlungsdaten</td><td>Dauer der aktiven Zusammenarbeit + 12 Monate</td></tr>
+      <tr><td>Vermittlungsnachweis (siehe unten)</td><td>12 Monate ab Datum der Präsentation gegenüber einem Kunden</td></tr>
+      <tr><td>Rechnungsdaten</td><td>10 Jahre (gesetzliche Aufbewahrungspflicht)</td></tr>
+    </table>
+    <p>Nach Ablauf der jeweiligen Frist werden die Daten gelöscht oder anonymisiert.</p>
+    <p><strong>Ausnahme bei Löschanfragen – Vermittlungsnachweis (Art. 17 Abs. 3 lit. e DSGVO):</strong><br>
+    Das Recht auf Löschung gilt nicht uneingeschränkt. Sofern ein Bewerber einem Kunden formal vorgestellt wurde, bewahren wir einen minimalen Vermittlungsnachweis auf, der ausschließlich folgende Angaben enthält: Name des Bewerbers, Datum der Vorstellung, Stellenbezeichnung und Kundenname. Dieser Nachweis wird für einen Zeitraum von 12 Monaten ab dem Datum der ersten Vorstellung aufbewahrt, ausschließlich zum Zweck der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen aus unserer Nicht-Umgehungsklausel gemäß Art. 17 Abs. 3 lit. e DSGVO. Alle weiteren personenbezogenen Daten (Lebenslauf, Kontaktdaten, Gehaltsvorstellung etc.) werden entsprechend Ihrer Löschanfrage vollständig gelöscht.</p>
 
     <h2>5. Ihre Rechte</h2>
     <ul>
@@ -50,6 +60,7 @@
       <li>Einschränkung der Verarbeitung, Datenübertragbarkeit</li>
       <li>Widerspruch und <strong>Widerruf der Einwilligung jederzeit</strong> per E-Mail an hello@axujobs.com, über Slack oder über den Cookie-Banner</li>
     </ul>
+    <p><strong>Hinweis zum Löschrecht:</strong> Das Recht auf Löschung kann in dem unter Abschnitt 4 beschriebenen Umfang eingeschränkt sein, sofern die Speicherung zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist (Art. 17 Abs. 3 lit. e DSGVO). In diesem Fall werden Sie über die beibehaltenen Daten und den Zweck der Aufbewahrung informiert.</p>
 
     <h2>6. Cookies & Tracking (§ 25 TDDDG)</h2>
     <p>Wir verwenden Cookies, um Ihre Erfahrung zu verbessern. Nicht-essenzielle Cookies werden nur nach Ihrer ausdrücklichen Zustimmung gesetzt.</p>
@@ -77,7 +88,7 @@
   <!-- ENGLISH -->
   <div id="en" class="en">
     <h1>Privacy Policy</h1>
-    <p><strong>Last updated: November 27, 2025</strong></p>
+    <p><strong>Last updated: May 08, 2026</strong></p>
 
     <h2>1. Controller</h2>
     <p>Erdem Aksu<br>Gretherstrasse 17, 79539 Lörrach, Germany<br>
@@ -93,8 +104,16 @@
     <p>Only with your explicit consent to employers/partners. No data selling.</p>
 
     <h2>4. Retention & Deletion</h2>
-    <p>Candidate data: max. 24 months<br>Accounting data: 10 years<br>
-    → Afterwards data will be deleted or anonymized.</p>
+    <table>
+      <tr><th>Data Category</th><th>Retention Period</th></tr>
+      <tr><td>Candidate profile (CV, contact details, salary expectation)</td><td>Max. 24 months from last activity, or upon deletion request</td></tr>
+      <tr><td>Active placement data</td><td>Duration of active engagement + 12 months</td></tr>
+      <tr><td>Non-circumvention record (see below)</td><td>12 months from date of presentation to a client</td></tr>
+      <tr><td>Accounting data</td><td>10 years (statutory obligation)</td></tr>
+    </table>
+    <p>After the applicable period, data will be deleted or anonymized.</p>
+    <p><strong>Exception to erasure requests – Non-circumvention record (Art. 17(3)(e) GDPR):</strong><br>
+    The right to erasure is not absolute. Where a candidate has been formally presented to a client, we retain a minimal record consisting solely of: candidate name, date of presentation, role presented for, and client name. This record is retained for 12 months from the date of first presentation, exclusively for the purpose of establishing, exercising, or defending legal claims arising from our non-circumvention obligations, pursuant to Art. 17(3)(e) GDPR. All other personal data (CV, contact details, salary expectations, etc.) is fully deleted in accordance with your erasure request.</p>
 
     <h2>5. Your Rights</h2>
     <ul>
@@ -102,6 +121,7 @@
       <li>Restriction, portability</li>
       <li>Objection and <strong>withdrawal of consent at any time</strong> via email to hello@axujobs.com, Slack, or the cookie banner</li>
     </ul>
+    <p><strong>Note on the right to erasure:</strong> The right to erasure may be limited to the extent described in Section 4 where retention is necessary for the establishment, exercise, or defence of legal claims (Art. 17(3)(e) GDPR). In such cases, you will be informed of the data retained and the purpose of retention.</p>
 
     <h2>6. Cookies & Tracking (§ 25 TDDDG)</h2>
     <p>We use cookies to enhance your experience. Non-essential cookies are only set after your explicit consent.</p>
